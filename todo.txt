@@ -2,3 +2,4 @@
 [ ] finish presenting GDI talk
 [ ] recover from crippling illness
 [x] explain branching
+[ ] explain pull requests
